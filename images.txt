@@ -1,6 +1,10 @@
-nginx
-vllm/vllm-openai:v0.7.1
-xprobe/xinference:v1.2.1
+vllm/vllm-openai:latest
+#vllm/vllm-openai:v0.7.1
+#xprobe/xinference:v1.2.1
+#nginx
+
+
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
