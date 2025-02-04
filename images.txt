@@ -1,3 +1,4 @@
+lmsysorg/sglang:latest
 ollama/ollama:latest
 vllm/vllm-openai:latest
 xprobe/xinference:latest
