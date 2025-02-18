@@ -1,3 +1,6 @@
+# one-api
+justsong/one-api:v0.6.10
+
 # dify
 searxng/searxng:latest
 postgres:15-alpine
