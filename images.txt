@@ -14,7 +14,7 @@ langgenius/dify-api:0.15.3
 langgenius/dify-web:0.15.3
 
 # xinference
-xprobe/xinference:v1.2.2
+xprobe/xinference:v1.3.0.post1
 
 # vllm
 vllm/vllm-openai:v0.7.2
