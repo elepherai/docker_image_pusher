@@ -3,6 +3,7 @@
 paddlepaddle/paddle:3.0.0rc1-gpu-cuda12.3-cudnn9.0-trt8.6
 
 # one-api
+justsong/one-api:latest
 justsong/one-api:v0.6.10
 
 # dify
