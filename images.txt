@@ -1,3 +1,6 @@
+# vllm
+vllm/vllm-openai:v0.7.2
+vllm/vllm-openai:v0.6.0
 
 # paddle
 paddlepaddle/paddle:3.0.0rc1-gpu-cuda12.3-cudnn9.0-trt8.6
@@ -20,9 +23,6 @@ langgenius/dify-web:1.0.0
 
 # xinference
 xprobe/xinference:v1.3.0.post2
-
-# vllm
-vllm/vllm-openai:v0.7.2
 
 #lmsysorg/sglang:latest
 #ollama/ollama:latest
