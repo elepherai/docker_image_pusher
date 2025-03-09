@@ -1,3 +1,7 @@
+# xinference
+xprobe/xinference:v1.3.1
+xprobe/xinference:v1.3.0.post2
+
 # vllm
 vllm/vllm-openai:v0.7.3
 vllm/vllm-openai:v0.6.0
@@ -20,9 +24,6 @@ minio/minio:RELEASE.2023-03-20T20-16-18Z
 langgenius/dify-sandbox:0.2.10
 langgenius/dify-api:1.0.0
 langgenius/dify-web:1.0.0
-
-# xinference
-xprobe/xinference:v1.3.0.post2
 
 #lmsysorg/sglang:latest
 #ollama/ollama:latest
