@@ -33,8 +33,8 @@ ubuntu/squid:latest
 langgenius/qdrant:v1.7.3
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 langgenius/dify-sandbox:0.2.10
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
+langgenius/dify-api:1.0.1
+langgenius/dify-web:1.0.1
 
 #lmsysorg/sglang:latest
 #ollama/ollama:latest
