@@ -2,7 +2,7 @@
 mcp/sqlite:latest
 
 # ragflow
-infiniflow/ragflow:v0.17.1-slim
+infiniflow/ragflow:v0.17.2-slim
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.0-dev3
 mysql:8.0.39
