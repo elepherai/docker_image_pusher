@@ -10,8 +10,7 @@ quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 valkey/valkey:8
 
 # xinference
-xprobe/xinference:v1.3.1
-xprobe/xinference:v1.3.0.post2
+xprobe/xinference:v1.3.1.post1
 
 # vllm
 vllm/vllm-openai:v0.7.3
