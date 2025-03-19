@@ -14,7 +14,7 @@ xprobe/xinference:v1.3.1.post1
 
 # vllm
 vllm/vllm-openai:v0.7.3
-vllm/vllm-openai:v0.6.0
+vllm/vllm-openai:v0.8.0
 
 # paddle
 paddlepaddle/paddle:3.0.0rc1-gpu-cuda12.3-cudnn9.0-trt8.6
