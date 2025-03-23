@@ -1,7 +1,20 @@
 
 # vllm
-vllm/vllm-openai:v0.8.0
+vllm/vllm-openai:v0.8.1
 vllm/vllm-openai:v0.7.3
+
+# dify
+searxng/searxng:latest
+postgres:15-alpine
+redis:6-alpine
+nginx:latest
+ubuntu/squid:latest
+langgenius/qdrant:v1.7.3
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-api:1.1.2
+langgenius/dify-web:1.1.2
+langgenius/dify-plugin-daemon:0.0.6-local
 
 # mcp
 mcp/sqlite:latest
@@ -23,19 +36,6 @@ paddlepaddle/paddle:3.0.0rc1-gpu-cuda12.3-cudnn9.0-trt8.6
 # one-api
 justsong/one-api:latest
 justsong/one-api:v0.6.10
-
-# dify
-searxng/searxng:latest
-postgres:15-alpine
-redis:6-alpine
-nginx:latest
-ubuntu/squid:latest
-langgenius/qdrant:v1.7.3
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-langgenius/dify-sandbox:0.2.10
-langgenius/dify-api:1.1.1
-langgenius/dify-web:1.1.1
-langgenius/dify-plugin-daemon:0.0.6-local
 
 #lmsysorg/sglang:latest
 #ollama/ollama:latest
