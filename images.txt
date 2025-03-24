@@ -1,3 +1,5 @@
+# xinference
+xprobe/xinference:v1.4.0
 
 # vllm
 vllm/vllm-openai:v0.8.1
@@ -26,9 +28,6 @@ infiniflow/infinity:v0.6.0-dev3
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 valkey/valkey:8
-
-# xinference
-xprobe/xinference:v1.3.1.post1
 
 # paddle
 paddlepaddle/paddle:3.0.0rc1-gpu-cuda12.3-cudnn9.0-trt8.6
