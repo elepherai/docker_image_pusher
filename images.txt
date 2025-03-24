@@ -1,3 +1,6 @@
+# locust
+locustio/locust:2.33.2
+
 # xinference
 xprobe/xinference:v1.4.0
 
