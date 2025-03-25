@@ -1,3 +1,12 @@
+# ragflow
+infiniflow/ragflow:v0.17.2
+infiniflow/ragflow:v0.17.2-slim
+elasticsearch:8.11.3
+infiniflow/infinity:v0.6.0-dev3
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8
+
 # dify-arm
 --platform=linux/arm64 searxng/searxng:latest
 --platform=linux/arm64 postgres:15-alpine
@@ -36,14 +45,6 @@ langgenius/dify-plugin-daemon:0.0.6-local
 
 # mcp
 mcp/sqlite:latest
-
-# ragflow
-infiniflow/ragflow:v0.17.2-slim
-elasticsearch:8.11.3
-infiniflow/infinity:v0.6.0-dev3
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
-valkey/valkey:8
 
 # paddle
 paddlepaddle/paddle:3.0.0rc1-gpu-cuda12.3-cudnn9.0-trt8.6
