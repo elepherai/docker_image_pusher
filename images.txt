@@ -1,3 +1,6 @@
+# vllm
+vllm/vllm-openai:v0.8.2
+
 # dify-arm
 --platform=linux/arm64 searxng/searxng:latest
 --platform=linux/arm64 postgres:15-alpine
@@ -25,10 +28,6 @@ locustio/locust:2.33.2
 
 # xinference
 xprobe/xinference:v1.4.0
-
-# vllm
-vllm/vllm-openai:v0.8.1
-vllm/vllm-openai:v0.7.3
 
 # dify
 searxng/searxng:latest
