@@ -1,3 +1,5 @@
+qwenllm/qwen-omni:2.5-cu121
+
 # ragflow
 --platform=linux/arm64 elasticsearch:8.11.3
 --platform=linux/arm64 mysql:8.0.39
