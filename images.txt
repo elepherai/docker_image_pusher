@@ -1,3 +1,5 @@
+dyrnq/open-webui:v0.6.0
+
 qwenllm/qwen-omni:2.5-cu121
 
 # ragflow
