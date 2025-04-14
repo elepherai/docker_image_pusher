@@ -1,3 +1,6 @@
+# ollama-arm
+--platform=linux/arm64 ollama/ollama:0.6.5
+
 # dify
 searxng/searxng:latest
 postgres:15-alpine
