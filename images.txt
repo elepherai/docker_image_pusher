@@ -1,4 +1,5 @@
 # python
+python:3.10.17-bookworm
 --platform=linux/arm64/v8 python:3.10.17-bookworm
 
 
