@@ -15,9 +15,9 @@ ubuntu/squid:latest
 langgenius/qdrant:v1.7.3
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 langgenius/dify-sandbox:0.2.11
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
-langgenius/dify-plugin-daemon:0.0.7-local
+langgenius/dify-api:1.3.0
+langgenius/dify-web:1.3.0
+langgenius/dify-plugin-daemon:0.0.8-local
 
 # dify-arm
 --platform=linux/arm64 searxng/searxng:latest
@@ -28,9 +28,9 @@ langgenius/dify-plugin-daemon:0.0.7-local
 --platform=linux/arm64 langgenius/qdrant:v1.7.3
 --platform=linux/arm64 minio/minio:RELEASE.2023-03-20T20-16-18Z
 --platform=linux/arm64 langgenius/dify-sandbox:0.2.11
---platform=linux/arm64 langgenius/dify-api:1.2.0
---platform=linux/arm64 langgenius/dify-web:1.2.0
---platform=linux/arm64 langgenius/dify-plugin-daemon:0.0.7-local
+--platform=linux/arm64 langgenius/dify-api:1.3.0
+--platform=linux/arm64 langgenius/dify-web:1.3.0
+--platform=linux/arm64 langgenius/dify-plugin-daemon:0.0.8-local
 
 # open-webui
 dyrnq/open-webui:v0.6.0
@@ -48,8 +48,8 @@ qwenllm/qwen-omni:2.5-cu121
 vllm/vllm-openai:v0.8.2
 
 # ragflow
-infiniflow/ragflow:v0.17.2
-infiniflow/ragflow:v0.17.2-slim
+infiniflow/ragflow:v0.18.0
+infiniflow/ragflow:v0.18.0-slim
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.0-dev3
 mysql:8.0.39
