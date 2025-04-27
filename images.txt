@@ -1,3 +1,6 @@
+# xinference
+xprobe/xinference:v1.5.0.post2
+
 # python
 python:3.10.17-bookworm
 --platform=linux/arm64/v8 python:3.10.17-bookworm
@@ -57,9 +60,6 @@ valkey/valkey:8
 
 # locust
 locustio/locust:2.33.2
-
-# xinference
-xprobe/xinference:v1.4.0
 
 # mcp
 mcp/sqlite:latest
