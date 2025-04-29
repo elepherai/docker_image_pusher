@@ -2,6 +2,10 @@
 joeyhub/mineru:latest
 joeyhub/mineru-api:latest
 
+# sglang
+lmsysorg/sglang:v0.4.6.post1-cu125
+
+
 # xinference
 xprobe/xinference:v1.5.0.post2
 
