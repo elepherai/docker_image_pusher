@@ -1,3 +1,16 @@
+# dify
+searxng/searxng:latest
+postgres:15-alpine
+redis:6-alpine
+nginx:latest
+ubuntu/squid:latest
+langgenius/qdrant:v1.7.3
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+langgenius/dify-sandbox:0.2.11
+langgenius/dify-api:1.3.1
+langgenius/dify-web:1.3.1
+langgenius/dify-plugin-daemon:0.0.9-local
+
 # joeyhub
 joeyhub/mineru:latest
 joeyhub/mineru-api:latest
@@ -19,18 +32,6 @@ vllm/vllm-openai:v0.8.4
 # ollama-arm
 --platform=linux/arm64 ollama/ollama:0.6.5
 
-# dify
-searxng/searxng:latest
-postgres:15-alpine
-redis:6-alpine
-nginx:latest
-ubuntu/squid:latest
-langgenius/qdrant:v1.7.3
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-langgenius/dify-sandbox:0.2.11
-langgenius/dify-api:1.3.0
-langgenius/dify-web:1.3.0
-langgenius/dify-plugin-daemon:0.0.8-local
 
 # dify-arm
 --platform=linux/arm64 searxng/searxng:latest
