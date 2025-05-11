@@ -1,3 +1,6 @@
+# vllm
+vllm/vllm-openai:v0.8.5.post1
+
 # xinference
 xprobe/xinference:v1.5.1
 
@@ -24,9 +27,6 @@ lmsysorg/sglang:v0.4.6.post1-cu125
 # python
 python:3.10.17-bookworm
 --platform=linux/arm64/v8 python:3.10.17-bookworm
-
-# vllm
-vllm/vllm-openai:v0.8.4
 
 # ollama-arm
 --platform=linux/arm64 ollama/ollama:0.6.5
