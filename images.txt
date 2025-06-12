@@ -1,3 +1,5 @@
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
 qwenllm/qwenvl:2.5-cu121
 
 # vllm
