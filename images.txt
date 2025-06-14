@@ -1,12 +1,5 @@
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
-
-qwenllm/qwenvl:2.5-cu121
-
 # vllm
-vllm/vllm-openai:v0.9.0
-
-# sglang
-lmsysorg/sglang:v0.4.6.post5-cu124
+vllm/vllm-openai:v0.9.1
 
 # dify
 searxng/searxng:latest
@@ -17,10 +10,15 @@ ubuntu/squid:latest
 langgenius/qdrant:v1.7.3
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 langgenius/dify-sandbox:0.2.12
-langgenius/dify-api:1.4.1
-langgenius/dify-web:1.4.1
-langgenius/dify-plugin-daemon:0.1.1-local
+langgenius/dify-api:1.4.2
+langgenius/dify-web:1.4.2
+langgenius/dify-plugin-daemon:0.1.2-local
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
+qwenllm/qwenvl:2.5-cu121
+
+# sglang
+lmsysorg/sglang:v0.4.6.post5-cu124
 
 # xinference
 xprobe/xinference:v1.6.0.post1
