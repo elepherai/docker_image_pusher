@@ -10,8 +10,8 @@ ubuntu/squid:latest
 langgenius/qdrant:v1.7.3
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 langgenius/dify-sandbox:0.2.12
-langgenius/dify-api:1.4.2
-langgenius/dify-web:1.4.2
+langgenius/dify-api:1.5.0
+langgenius/dify-web:1.5.0
 langgenius/dify-plugin-daemon:0.1.2-local
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
@@ -21,11 +21,11 @@ qwenllm/qwenvl:2.5-cu121
 lmsysorg/sglang:v0.4.6.post5-cu124
 
 # xinference
-xprobe/xinference:v1.6.0.post1
+xprobe/xinference:v1.7.0.post1
 
 # ragflow
-infiniflow/ragflow:v0.19.0
-infiniflow/ragflow:v0.19.0-slim
+infiniflow/ragflow:v0.19.1
+infiniflow/ragflow:v0.19.1-slim
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.0-dev3
 mysql:8.0.39
