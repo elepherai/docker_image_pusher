@@ -21,7 +21,7 @@ qwenllm/qwenvl:2.5-cu121
 lmsysorg/sglang:v0.4.6.post5-cu124
 
 # xinference
-xprobe/xinference:v1.7.0.post1
+xprobe/xinference:v1.7.1
 
 # ragflow
 infiniflow/ragflow:v0.19.1
