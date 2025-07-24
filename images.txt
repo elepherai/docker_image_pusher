@@ -4,6 +4,8 @@ memgraph/memgraph-mage:3.4
 # neo4j
 neo4j:5.26.9
 
+qdrant/qdrant:v1.15.1
+
 # vllm
 vllm/vllm-openai:v0.9.2
 
