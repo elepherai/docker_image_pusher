@@ -1,3 +1,5 @@
+python:3.12-slim
+
 # memgraph
 memgraph/memgraph-mage:3.4
 
