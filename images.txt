@@ -1,3 +1,19 @@
+# dify
+searxng/searxng:latest
+postgres:15-alpine
+redis:6-alpine
+nginx:latest
+ubuntu/squid:latest
+langgenius/qdrant:v1.7.3
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-api:1.7.1
+langgenius/dify-web:1.7.1
+langgenius/dify-plugin-daemon:0.2.0-local
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
+# vllm
+vllm/vllm-openai:v0.10.0
 
 qdrant/qdrant:v1.15.0
 
@@ -9,23 +25,6 @@ memgraph/memgraph-mage:3.4
 # neo4j
 neo4j:5.26.9
 
-
-# vllm
-vllm/vllm-openai:v0.9.2
-
-# dify
-searxng/searxng:latest
-postgres:15-alpine
-redis:6-alpine
-nginx:latest
-ubuntu/squid:latest
-langgenius/qdrant:v1.7.3
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-api:1.7.0
-langgenius/dify-web:1.7.0
-langgenius/dify-plugin-daemon:0.2.0-local
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 qwenllm/qwenvl:2.5-cu121
 
