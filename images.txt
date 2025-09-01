@@ -1,3 +1,6 @@
+# xinference
+xprobe/xinference:v1.9.1
+
 # dify
 searxng/searxng:latest
 postgres:15-alpine
@@ -47,9 +50,6 @@ neo4j:5.26.9
 
 
 qwenllm/qwenvl:2.5-cu121
-
-# xinference
-xprobe/xinference:v1.8.0
 
 # sglang
 lmsysorg/sglang:v0.4.6.post5-cu124
