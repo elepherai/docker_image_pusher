@@ -1,3 +1,6 @@
+# stepfun
+stepfun2025/vllm:step-audio-2-v20250909
+
 # xinference
 xprobe/xinference:v1.9.1
 
