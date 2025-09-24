@@ -1,3 +1,8 @@
+# omni
+qwenllm/qwen3-omni:3-cu124
+qwenllm/qwen-omni:2.5-cu121
+
+
 # vllm
 vllm/vllm-openai:v0.10.2
 
@@ -76,8 +81,6 @@ joeyhub/mineru:latest
 # open-webui
 dyrnq/open-webui:v0.6.0
 --platform=linux/arm64 dyrnq/open-webui:v0.6.0
-
-qwenllm/qwen-omni:2.5-cu121
 
 # ragflow
 --platform=linux/arm64 elasticsearch:8.11.3
