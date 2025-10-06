@@ -4,7 +4,7 @@ qwenllm/qwen-omni:2.5-cu121
 
 
 # vllm
-vllm/vllm-openai:v0.10.2
+vllm/vllm-openai:v0.11.0
 
 # stepfun
 stepfun2025/vllm:step-audio-2-v20250909
