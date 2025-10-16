@@ -1,5 +1,6 @@
 # n8n
 n8nio/n8n:1.115.3
+postgres:16
 
 # omni
 qwenllm/qwen3-omni:3-cu124
