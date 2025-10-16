@@ -1,3 +1,6 @@
+# n8n
+n8nio/n8n:1.115.3
+
 # omni
 qwenllm/qwen3-omni:3-cu124
 qwenllm/qwen-omni:2.5-cu121
