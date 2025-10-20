@@ -1,3 +1,19 @@
+# ragflow
+infiniflow/ragflow:v0.21.0
+infiniflow/ragflow:v0.21.0-slim
+elasticsearch:8.11.3
+infiniflow/infinity:v0.6.0
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+valkey/valkey:8
+
+# ragflow
+--platform=linux/arm64 elasticsearch:8.11.3
+--platform=linux/arm64 mysql:8.0.39
+--platform=linux/arm64 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+--platform=linux/arm64 valkey/valkey:8
+
+
 # n8n
 n8nio/n8n:1.115.3
 postgres:16
@@ -66,14 +82,7 @@ qwenllm/qwenvl:2.5-cu121
 # sglang
 lmsysorg/sglang:v0.4.6.post5-cu124
 
-# ragflow
-infiniflow/ragflow:v0.20.5
-infiniflow/ragflow:v0.20.5-slim
-elasticsearch:8.11.3
-infiniflow/infinity:v0.6.0-dev3
-mysql:8.0.39
-quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
-valkey/valkey:8
+
 
 # joeyhub
 joeyhub/mineru-api:latest
@@ -85,12 +94,6 @@ joeyhub/mineru:latest
 # open-webui
 dyrnq/open-webui:v0.6.0
 --platform=linux/arm64 dyrnq/open-webui:v0.6.0
-
-# ragflow
---platform=linux/arm64 elasticsearch:8.11.3
---platform=linux/arm64 mysql:8.0.39
---platform=linux/arm64 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
---platform=linux/arm64 valkey/valkey:8
 
 # locust
 locustio/locust:2.33.2
