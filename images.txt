@@ -1,6 +1,6 @@
 # ragflow
-infiniflow/ragflow:v0.21.0
-infiniflow/ragflow:v0.21.0-slim
+infiniflow/ragflow:v0.21.1
+infiniflow/ragflow:v0.21.1-slim
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.0
 mysql:8.0.39
