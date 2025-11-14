@@ -1,3 +1,8 @@
+# livekit
+ghcr.io/remsky/kokoro-fastapi-cpu:latest
+livekit/livekit-server:latest
+
+
 # ragflow
 infiniflow/ragflow:v0.21.1
 infiniflow/ragflow:v0.21.1-slim
