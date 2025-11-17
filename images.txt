@@ -1,3 +1,6 @@
+# xinference
+xprobe/xinference:v1.13.0
+
 # livekit
 ghcr.io/remsky/kokoro-fastapi-cpu:latest
 livekit/livekit-server:latest
@@ -33,9 +36,6 @@ vllm/vllm-openai:v0.11.0
 
 # stepfun
 stepfun2025/vllm:step-audio-2-v20250909
-
-# xinference
-xprobe/xinference:v1.9.1
 
 # dify
 searxng/searxng:latest
