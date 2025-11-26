@@ -1,3 +1,6 @@
+# vllm
+vllm/vllm-openai:v0.11.2
+
 # xinference
 xprobe/xinference:v1.13.0
 
@@ -29,10 +32,6 @@ postgres:16
 # omni
 qwenllm/qwen3-omni:3-cu124
 qwenllm/qwen-omni:2.5-cu121
-
-
-# vllm
-vllm/vllm-openai:v0.11.0
 
 # stepfun
 stepfun2025/vllm:step-audio-2-v20250909
