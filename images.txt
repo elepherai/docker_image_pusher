@@ -1,11 +1,11 @@
+# xinference
+xprobe/xinference:v1.14.0
+
 node:24-slim
 python:3.11.6-slim
 
 # vllm
 vllm/vllm-openai:v0.11.2
-
-# xinference
-xprobe/xinference:v1.13.0
 
 # livekit
 ghcr.io/remsky/kokoro-fastapi-cpu:latest
