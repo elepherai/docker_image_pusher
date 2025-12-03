@@ -1,3 +1,5 @@
+unsloth/unsloth:latest
+
 # xinference
 xprobe/xinference:v1.14.0
 
