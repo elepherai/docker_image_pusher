@@ -1,3 +1,5 @@
+calciumion/new-api:latest
+
 unsloth/unsloth:latest
 hiyouga/llamafactory:latest
 
