@@ -10,7 +10,7 @@ node:24-slim
 python:3.11.6-slim
 
 # vllm
-vllm/vllm-openai:v0.11.2
+vllm/vllm-openai:v0.12.0
 vllm/vllm-omni:v0.11.0rc1
 
 # livekit
