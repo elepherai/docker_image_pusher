@@ -1,3 +1,5 @@
+python:3.10.19-slim
+
 # vllm
 vllm/vllm-openai:nightly
 vllm/vllm-openai:v0.12.0
