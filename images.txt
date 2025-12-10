@@ -1,3 +1,18 @@
+# dify
+busybox:latest
+searxng/searxng:latest
+postgres:15-alpine
+redis:6-alpine
+nginx:latest
+ubuntu/squid:latest
+langgenius/qdrant:v1.8.3
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-api:1.10.1-fix.1
+langgenius/dify-web:1.10.1-fix.1
+langgenius/dify-plugin-daemon:0.4.1-local
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
 python:3.10.19-slim
 
 # vllm
@@ -49,20 +64,6 @@ qwenllm/qwen-omni:2.5-cu121
 
 # stepfun
 stepfun2025/vllm:step-audio-2-v20250909
-
-# dify
-searxng/searxng:latest
-postgres:15-alpine
-redis:6-alpine
-nginx:latest
-ubuntu/squid:latest
-langgenius/qdrant:v1.7.3
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-api:1.9.1
-langgenius/dify-web:1.9.1
-langgenius/dify-plugin-daemon:0.3.0-local
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 # dify-arm
 --platform=linux/arm64 searxng/searxng:latest
