@@ -29,7 +29,7 @@ python:3.10.19-slim
 
 # vllm
 vllm/vllm-openai:nightly
-vllm/vllm-openai:v0.12.0
+vllm/vllm-openai:v0.13.0
 vllm/vllm-omni:v0.11.0rc1
 
 calciumion/new-api:latest
