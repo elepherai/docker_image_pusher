@@ -1,11 +1,11 @@
-langgenius/qdrant:v1.8.3
+infiniflow/ragflow:v0.22.1-slim
 
 # xinference
 xprobe/xinference:v1.15.0
 
 # ragflow
 infiniflow/ragflow:v0.22.1
-#infiniflow/ragflow:v0.22.1-slim
+infiniflow/ragflow:v0.22.1-slim
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.11
 mysql:8.0.39
