@@ -1,3 +1,5 @@
+langgenius/qdrant:v1.8.3
+
 # xinference
 xprobe/xinference:v1.15.0
 
