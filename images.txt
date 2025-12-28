@@ -1,5 +1,5 @@
 # xinference
-xprobe/xinference:v1.15.0
+xprobe/xinference:v1.16.0
 
 # ragflow
 infiniflow/ragflow:v0.22.1
