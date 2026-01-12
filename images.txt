@@ -1,5 +1,7 @@
+livekit/livekit-server:v1.9.10
+
 # xinference
-xprobe/xinference:v1.16.0
+xprobe/xinference:v1.17.0
 
 # ragflow
 infiniflow/ragflow:v0.23.1
@@ -41,9 +43,8 @@ python:3.11.6-slim
 
 
 
-# livekit
 ghcr.io/remsky/kokoro-fastapi-cpu:latest
-livekit/livekit-server:latest
+
 
 
 # ragflow
