@@ -1,3 +1,7 @@
+# vllm
+vllm/vllm-openai:v0.14.0
+vllm/vllm-openai:nightly
+vllm/vllm-omni:v0.11.0rc1
 livekit/livekit-server:v1.9.10
 
 # xinference
@@ -28,10 +32,7 @@ downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 python:3.10.19-slim
 
-# vllm
-vllm/vllm-openai:nightly
-vllm/vllm-openai:v0.13.0
-vllm/vllm-omni:v0.11.0rc1
+
 
 calciumion/new-api:latest
 
