@@ -4,8 +4,9 @@ vllm/vllm-openai:v0.14.1
 vllm/vllm-omni:v0.14.0rc1
 livekit/livekit-server:v1.9.10
 
+
 # xinference
-xprobe/xinference:v1.17.0
+xprobe/xinference:v1.17.1
 
 # ragflow
 infiniflow/ragflow:v0.23.1
