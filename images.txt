@@ -1,7 +1,7 @@
 # vllm
-vllm/vllm-openai:v0.14.0
 vllm/vllm-openai:nightly
-vllm/vllm-omni:v0.11.0rc1
+vllm/vllm-openai:v0.14.1
+vllm/vllm-omni:v0.14.0rc1
 livekit/livekit-server:v1.9.10
 
 # xinference
