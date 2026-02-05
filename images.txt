@@ -1,3 +1,6 @@
+# sglang
+lmsysorg/sglang:v0.5.8
+
 unsloth/unsloth:2026.1.4-pt2.9.0-cu12.8-embedding-finetuning
 unsloth/unsloth:latest
 
@@ -102,11 +105,6 @@ neo4j:5.26.9
 
 
 qwenllm/qwenvl:2.5-cu121
-
-# sglang
-lmsysorg/sglang:v0.4.6.post5-cu124
-
-
 
 # joeyhub
 joeyhub/mineru-api:latest
