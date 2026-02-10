@@ -1,15 +1,14 @@
+# vllm
+vllm/vllm-openai:v0.15.1
+vllm/vllm-openai:nightly
+vllm/vllm-omni:v0.14.0
+livekit/livekit-server:v1.9.10
+
 # sglang
 lmsysorg/sglang:v0.5.8
 
 unsloth/unsloth:2026.1.4-pt2.9.0-cu12.8-embedding-finetuning
 unsloth/unsloth:latest
-
-# vllm
-vllm/vllm-openai:nightly
-vllm/vllm-openai:v0.15.0
-vllm/vllm-omni:v0.14.0
-livekit/livekit-server:v1.9.10
-
 
 # xinference
 xprobe/xinference:v1.17.1
