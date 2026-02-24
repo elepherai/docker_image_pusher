@@ -7,7 +7,7 @@ livekit/livekit-server:v1.9.10
 # sglang
 lmsysorg/sglang:v0.5.8
 
-unsloth/unsloth:2026.1.4-pt2.9.0-cu12.8-embedding-finetuning
+unsloth/unsloth:2026.2.1-pt2.9.0-cu12.8-moe-optimized-training
 unsloth/unsloth:latest
 
 # xinference
