@@ -1,11 +1,11 @@
-# vllm
+v# vllm
 vllm/vllm-openai:nightly
 vllm/vllm-openai:v0.15.1
 vllm/vllm-omni:v0.14.0
 livekit/livekit-server:v1.9.10
 
 # sglang
-lmsysorg/sglang:v0.5.8
+lmsysorg/sglang:v0.5.9
 
 unsloth/unsloth:2026.2.1-pt2.9.0-cu12.8-moe-optimized-training
 unsloth/unsloth:latest
