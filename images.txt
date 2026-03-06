@@ -1,3 +1,7 @@
+# new-api
+calciumion/new-api:v0.11.4-alpha.2
+calciumion/new-api:latest
+
 # vllm
 vllm/vllm-openai:nightly
 vllm/vllm-openai:v0.16.0
@@ -39,9 +43,6 @@ downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 python:3.10.19-slim
 
-
-
-calciumion/new-api:latest
 
 unsloth/unsloth:latest
 hiyouga/llamafactory:latest
