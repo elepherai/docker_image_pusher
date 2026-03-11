@@ -1,8 +1,5 @@
-# new-api
-calciumion/new-api:v0.11.4-alpha.2
-calciumion/new-api:latest
-
 # vllm
+vllm/vllm-openai:cu130-v0.17.0
 vllm/vllm-openai:nightly
 vllm/vllm-openai:v0.17.0
 vllm/vllm-openai:cu130-nightly
@@ -14,6 +11,12 @@ lmsysorg/sglang:v0.5.9
 
 unsloth/unsloth:2026.2.1-pt2.9.0-cu12.8-moe-optimized-training
 unsloth/unsloth:latest
+
+# new-api
+calciumion/new-api:v0.11.4-alpha.2
+calciumion/new-api:latest
+
+
 
 # xinference
 xprobe/xinference:v1.17.1
