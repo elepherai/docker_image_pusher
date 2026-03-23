@@ -14,7 +14,7 @@ unsloth/unsloth:2026.2.1-pt2.9.0-cu12.8-moe-optimized-training
 unsloth/unsloth:latest
 
 # new-api
-calciumion/new-api:v0.11.4-alpha.2
+calciumion/new-api:v0.11.9-alpha.1
 calciumion/new-api:latest
 
 
