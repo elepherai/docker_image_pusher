@@ -4,7 +4,7 @@ vllm/vllm-openai:glm5
 vllm/vllm-openai:v0.18.0
 vllm/vllm-openai:v0.17.1-cu130
 vllm/vllm-openai:cu130-nightly
-vllm/vllm-omni:v0.16.0
+vllm/vllm-omni:v0.18.0
 livekit/livekit-server:v1.9.10
 
 # sglang
