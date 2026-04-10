@@ -1,3 +1,18 @@
+# dify
+busybox:latest
+searxng/searxng:latest
+postgres:15-alpine
+redis:6-alpine
+nginx:latest
+ubuntu/squid:latest
+langgenius/qdrant:v1.8.3
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+langgenius/dify-sandbox:0.2.14
+langgenius/dify-api:1.13.3
+langgenius/dify-web:1.13.3
+langgenius/dify-plugin-daemon:0.5.3-local
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
 # new-api
 calciumion/new-api:v0.12.2
 calciumion/new-api:latest
@@ -27,21 +42,6 @@ infiniflow/infinity:v0.6.11
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 valkey/valkey:8
-
-# dify
-busybox:latest
-searxng/searxng:latest
-postgres:15-alpine
-redis:6-alpine
-nginx:latest
-ubuntu/squid:latest
-langgenius/qdrant:v1.8.3
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-api:1.11.1
-langgenius/dify-web:1.11.1
-langgenius/dify-plugin-daemon:0.5.1-local
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 python:3.10.19-slim
 
