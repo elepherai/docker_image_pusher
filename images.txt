@@ -18,6 +18,8 @@ calciumion/new-api:v0.12.2
 calciumion/new-api:latest
 
 # vllm
+vllm/vllm-openai:deepseekv4-cu130
+vllm/vllm-openai:deepseekv4-cu129
 vllm/vllm-openai:nightly
 vllm/vllm-openai:glm5
 vllm/vllm-openai:v0.19.1
