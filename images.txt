@@ -1,3 +1,6 @@
+# litellm
+litellm/litellm:main-v1.83.14-stable.patch.2
+
 # vllm
 vllm/vllm-openai:v0.20.1
 vllm/vllm-openai:deepseekv4-cu130
