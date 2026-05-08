@@ -1,4 +1,6 @@
 # litellm
+postgres:16.13
+prom/prometheus:v3.11.3
 litellm/litellm:main-v1.83.14-stable.patch.3
 
 # vllm
