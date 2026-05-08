@@ -1,5 +1,5 @@
 # litellm
-litellm/litellm:main-v1.83.14-stable.patch.2
+litellm/litellm:main-v1.83.14-stable.patch.3
 
 # vllm
 vllm/vllm-openai:v0.20.1
