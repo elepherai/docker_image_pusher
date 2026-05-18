@@ -1,10 +1,5 @@
-# litellm
-postgres:16.13
-prom/prometheus:v3.11.3
-litellm/litellm:main-v1.83.14-stable.patch.3
-
 # vllm
-vllm/vllm-openai:v0.20.1
+vllm/vllm-openai:v0.21.0
 vllm/vllm-openai:deepseekv4-cu130
 vllm/vllm-openai:deepseekv4-cu129
 vllm/vllm-openai:nightly
@@ -13,6 +8,11 @@ vllm/vllm-openai:v0.19.1
 vllm/vllm-openai:cu130-nightly
 vllm/vllm-omni:v0.18.0
 livekit/livekit-server:v1.9.10
+
+# litellm
+postgres:16.13
+prom/prometheus:v3.11.3
+litellm/litellm:main-v1.83.14-stable.patch.
 
 
 # dify
