@@ -1,3 +1,5 @@
+tonistiigi/binfmt:qemu-v10.2.3
+
 # vllm
 vllm/vllm-openai:v0.21.0
 vllm/vllm-openai:deepseekv4-cu130
