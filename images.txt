@@ -1,3 +1,5 @@
+ghcr.io/ggml-org/llama.cpp:full
+
 # vllm
 vllm/vllm-openai:v0.26.0
 vllm/vllm-openai:deepseekv4-cu130
