@@ -1,4 +1,4 @@
-ghcr.io/ggml-org/llama.cpp:full
+yanwk/comfyui-boot:cu130-slim-20260817
 
 # vllm
 vllm/vllm-openai:v0.26.0
