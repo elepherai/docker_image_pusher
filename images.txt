@@ -1,3 +1,5 @@
+# comfyui
+yanwk/comfyui-boot:cu130-slim-v2-20260814
 yanwk/comfyui-boot:cu130-slim-20260817
 
 # vllm
